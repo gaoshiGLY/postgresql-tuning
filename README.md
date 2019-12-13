@@ -1,1 +1,1 @@
-### This is program is just for learning perl.
+### This program is just for learning perl.
